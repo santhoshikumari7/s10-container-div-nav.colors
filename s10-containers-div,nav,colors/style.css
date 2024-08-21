@@ -1,0 +1,76 @@
+/*body{
+    background-color: rgb(100, 150, 200);
+}*/
+
+
+/*img{
+    width: 300px;
+    height: 200px;
+}*/
+
+
+.presidentPic{
+    width: 200px;
+    
+}
+nav{
+    background-color: lightpink;
+    font-size: 2rem;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray;
+    text-align: center;
+}
+
+div{
+    display: inline-block;
+    text-align: center;
+    margin: 30px;
+    border: 20px dashed darkkhaki;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px black;
+    width: 350px;
+    height: 500px;
+    overflow: scroll;
+}
+div p{
+    text-align: justify;
+    padding: 20px;
+}
+
+#droupadiDiv{
+    background-color: rgb(150, 100, 50);
+    width: 300px;
+
+}
+#joeDiv{
+    background-color: deeppink;
+    width: 300px;
+}
+
+#kingDiv{
+    background-color: blueviolet;
+    width: 300px;
+}
+
+#macronDiv{
+    background-color: rgb(200, 150, 50);
+    width: 300px;
+
+}
+
+#mattarellaDiv{
+    background-color: rgba(160, 109, 198, 0.5);
+    width: 300px;
+}
+
+
+#silvaDiv{
+    background-color: lightgoldenrodyellow;
+    width: 300px;
+}
+
+#steinmerDiv{
+    background-color: magenta;
+    width: 300px;
+}
